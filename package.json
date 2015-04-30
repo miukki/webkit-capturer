@@ -1,0 +1,6 @@
+{
+	"name": "webkit-capturer",
+	"description": "Capture web pages",
+	"version": "0.5.0",
+	"main": "webkit-capturer.js"
+}
